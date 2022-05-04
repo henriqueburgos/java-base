@@ -4,10 +4,9 @@ public class equacao {
   
   String equa= "x2 – 4x – 5 = 0";
   
-    private double a = 1;
-    private double b = -4;
-    private double c = -5;
-    
+    private double a ;
+    private double b ;
+    private double c ;    
 // ------------------------- A ------------------------------
     public double getA() {
         return a;
