@@ -1,0 +1,27 @@
+criar classe equação
+todos os atributos compartilhados entre as regras de negocio
+para exucação da equação de 2 grau.
+
+duas classes 
+
+Delta heranca com a superclasse 
+troca atributos e gerar uma entrega do resultado de Delta
+x1 tera dependencias de Delta
+articulada para a solução do x1 +
+
+principal mostra a construção da equação e passa a posição de x1 e x2
+
+
+esperamos todos os atributos privados utilizando o encapsulamento
+esperamos trocas corretas de parametros entre as classes e o uso correto da super classe
+
+esperamos o uso de organização dos metodos e instacias aplicadas de forma a seguir boas praticas. de construção de softwers
+
+
+//  
+x2 – 4x – 5 = 0
+delta=b^2-4*a*c
+x1= -b +sqrt(delta)/(2*a)
+x1= -b -sqrt(delta)/(2*a)
+
+-ax²+bx+c=0
