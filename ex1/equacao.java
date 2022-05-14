@@ -2,8 +2,7 @@ package ex1;
 
 public class equacao {
   
-  String equa= "x2 – 4x – 5 = 0";
-  
+    
     private double a ;
     private double b ;
     private double c ;    

@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch executor",
+            "request": "launch",
+            "mainClass": "aula9.executor",
+            "projectName": "java base_c2c0fa69"
+        },
+        {
+            "type": "java",
+            "name": "Launch programa",
+            "request": "launch",
+            "mainClass": "revisao1.programa",
+            "projectName": "java base_c2c0fa69"
+        },
+        {
+            "type": "java",
+            "name": "Launch servicePoint",
+            "request": "launch",
+            "mainClass": "aula8.servicePoint",
+            "projectName": "java base_c2c0fa69"
+        },
+        {
+            "type": "java",
+            "name": "Launch app",
+            "request": "launch",
+            "mainClass": "aula7.app",
+            "projectName": "java base_c2c0fa69"
+        },
+        {
+            "type": "java",
             "name": "Launch principal",
             "request": "launch",
             "mainClass": "ex1.principal",
